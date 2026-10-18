@@ -159,7 +159,7 @@ public class BasicMaths {
         //perfect Number .
 
 
-        //1 - n tak prime number.
+        //1 - n tak prime number.gi
     }
 
 }
